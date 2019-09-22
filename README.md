@@ -2,4 +2,4 @@
 
 This repository is only for create a simple bucket in AWS S3 with terraform.
 
-You can read more about here [Getting Started with Terraform: Infrastructure as Code](https://medium.com/jorge-junior/getting-stared-with-terraform-infrastructure-as-code-5e9d69de9145)
+You can read more about [Terraform](https://www.terraform.io/) here [Getting Started with Terraform: Infrastructure as Code](https://medium.com/jorge-junior/getting-stared-with-terraform-infrastructure-as-code-5e9d69de9145)
